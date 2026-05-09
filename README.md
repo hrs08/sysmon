@@ -17,12 +17,12 @@ Prettier than `top`. Snappier than `htop`.
 - **Process table** — top 22 processes sorted by CPU or MEM, refreshed every second
 - **Low overhead** — single-threaded, async render loop, no blocking I/O
 
-## Install Required library
+## Install Required library and .py file
 
 ```bash
 pip install textual psutil
 ```
-
+download the .py file given
 ## Run
 
 ```bash
